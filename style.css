@@ -13,7 +13,7 @@ h2{
 }
 
 #dinnerTitle{
-    color:purple;
+    color:darkolivegreen;
 }
 
 #lunchTitle{
@@ -27,4 +27,39 @@ h2{
 #hubLink{
     font-size:20px;
     color:fuchsia
+}
+
+#lunchMain{
+    font-size:25px;
+    color:darkred
+}
+
+#lunchSides{
+    font-size:25px;
+    color:indianred
+}
+
+#lunchDrinks{
+    font-size:25px;
+    color:lightcoral
+}
+
+#dinnerExplain{
+    font-size:20px;
+    color:darkolivegreen
+}
+
+#dinnerMain{
+    font-size:25px;
+    color:darkgreen
+}
+
+#dinnerSide{
+    font-size:25px;
+    color:green
+}
+
+#dinnerDrink{
+    font-size:25px;
+    color:limegreen
 }
