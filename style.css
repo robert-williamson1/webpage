@@ -4,7 +4,7 @@ h1{
 }
 
 h2{
-    color:blue;
+    color:orchid;
     font-size:22px;
 }
 
@@ -12,12 +12,30 @@ h2{
     font-size:16px;
 }
 
+#mainPageTitle{
+    font-size: 30px;
+    color:orchid
+}
+
+#mainPageBody{
+    background-color:paleturquoise;
+    background-size:auto;
+}
+
 #dinnerTitle{
     color:darkolivegreen;
 }
 
-#lunchTitle{
+#dinnerBody{
+    background-color:paleturquoise;
     color:green;
+    background-size:auto
+}
+
+#lunchBody{
+    background-color:paleturquoise;
+    color:salmon;
+    background-size:auto
 }
 
 #breakfastTitle{
@@ -27,6 +45,11 @@ h2{
 #hubLink{
     font-size:20px;
     color:fuchsia
+}
+
+#hubLink:hover{
+    color:blue;
+    text-decoration:underline;
 }
 
 #lunchMain{
